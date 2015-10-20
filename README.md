@@ -21,6 +21,6 @@ or by running from the root of this repository:
 
 <h1> Usage </h1>
 You can see test_usage.py for an example of using the algorithms
-You can also running by using:
+You can also run the example by using:
 
 ```python test_usage.py```

@@ -1,0 +1,14 @@
+*.aux
+*.blg
+*.bbl
+*.aux
+*.log
+*.pdf
+*.pyc
+**/*.aux
+**/*.blg
+**/*.bbl
+**/*.aux
+**/*.log
+**/*.pdf
+**/*.pyc
